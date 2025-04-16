@@ -1,0 +1,18 @@
+[
+    {
+        "id": "101",
+        "name": "goldi",
+        "email": "goldi@gmail.com",
+        "address": "bihar",
+        "contact": "7091803954",
+        "qualification": "12th pass"
+    },
+    {
+        "id": "102",
+        "name": "srishti",
+        "email": "srishti@gmail.com",
+        "address": "mirganj",
+        "contact": "1234567890",
+        "qualification": "12th pass"
+    }
+]
